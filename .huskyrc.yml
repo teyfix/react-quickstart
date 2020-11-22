@@ -1,2 +1,2 @@
 hooks:
-  pre-commit: npm-run-all lint fmt
+  pre-commit: npm-run-all lint fmt test
